@@ -61,7 +61,7 @@
 
                 <div class="card container mt-4 border-primary" style="width: 50rem;">
                     <div class="card-header text-white bg-dark mb-3 border-primary">
-                        <h3>AGREGAR CLIENTE</h3>
+                        <h3>AGREGAR PRODUCTO</h3>
                     </div>
                     <div class="card-body">
 
