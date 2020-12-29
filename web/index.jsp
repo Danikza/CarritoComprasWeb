@@ -96,7 +96,7 @@
 
                             <div class="modal-footer">
                                 <input type="submit"  value="Ingresar" name="ya" class="btn btn btn-primary " rel="content-y"  data-toggle="collapse">
-                                <a class="btn btn-danger" href="RegistrarCliente.jsp">Restrarte</a>
+                                <a class="btn btn-danger" href="RegistrarCliente.jsp">Registrarse</a>
                             </div>
                         </form>
 
